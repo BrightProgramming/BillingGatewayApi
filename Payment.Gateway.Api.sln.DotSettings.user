@@ -1,0 +1,177 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=090eea71_002D646d_002D4bbf_002D883f_002D3ef4745f1968/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0fe398f0_002D7e4f_002D4565_002Db810_002Ddb1bcbf1a23a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForNewPayment_ShouldInsertIt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForNewPayment_ShouldInsertIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=227a0f12_002D5f13_002D4eef_002D8d5f_002D41125ab4bef0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPaymentDetailsAsync_ForExistingPayment_ShouldReturnIt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.GetPaymentDetailsAsync_ForExistingPayment_ShouldReturnIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=256d540d_002D5667_002D4745_002D87a7_002D0dc9d159929c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_ForMissingPayment_ShouldThrow #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_ForMissingPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2ca83c15_002D1fac_002D4293_002D9705_002Dce2f160a9176/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3add91b3_002Dce6d_002D4bf3_002D9117_002D95b3f0d9443e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cbcc257_002D92c3_002D4f64_002D89aa_002D87665e972a61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ffc06c4_002Da994_002D4d17_002Da826_002D8b01676e317b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=51cdb6d2_002D800f_002D49ab_002D920a_002Dfafad014b9fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59af02d4_002D729c_002D4dc3_002D95dd_002D8fb61b072735/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e285a82_002D3d8d_002D47e8_002D998e_002D8256741fbc52/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForNewPayment_ShouldInsertIt #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForNewPayment_ShouldInsertIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f7fbf83_002D0ece_002D42b7_002D83f2_002Df3869f25cff2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PaymentRepositoryTests #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e79cbf2_002D3ba1_002D494c_002D8c22_002D7db4452c81cb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=727369ab_002Dab87_002D48f8_002Db21f_002Db3f02d61cbfa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=729cd754_002D5dd3_002D406f_002D89dc_002Dd8d8c6afa741/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=772f2201_002D0820_002D45e4_002D8fbd_002D7092b5f829ea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e70ed9f_002Db59d_002D43b5_002D8734_002D81f618469b72/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=93108c12_002Df595_002D4f23_002D84ef_002Deeb7a09b1bd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_ForExistingPendingPayment_ShouldUpsertIt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a37e1d9b_002D7c9a_002D490b_002D90c9_002D89db09dcd3f2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=abcb80d3_002De02b_002D4159_002Daedb_002Debc6573eec5f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b940bbf0_002D23b7_002D458a_002D8204_002De8e45c917353/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_AttemptToUpdateTwice_ShouldThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_AttemptToUpdateTwice_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b9f879ea_002Dc5f8_002D43a0_002Daac9_002Db7bd2f43eb62/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForSamePaymentIdButDifferentMerchants_ShouldInsert&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d6302180_002Dedd2_002D4469_002Da050_002D154ac3e670c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0eb5d93_002Da917_002D48f9_002D8f84_002Debe5f6780c87/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InsertPaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.InsertPaymentRequestAsync_ForExistingCompletedPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e49969cd_002Dec4d_002D4c9a_002D81f2_002D0e27b6a21436/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StringExtensionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Extensions.StringExtensionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::45A77969-E917-4E37-A851-B80ED07990C7::.NETCoreApp,Version=v3.1::Banking.Simulator.Api.UnitTests.Services.PaymentProcessorServiceTests.test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::45A77969-E917-4E37-A851-B80ED07990C7::.NETCoreApp,Version=v3.1::Banking.Simulator.Api.UnitTests.Services.PaymentProcessorServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::45A77969-E917-4E37-A851-B80ED07990C7::.NETCoreApp,Version=v3.1::Banking.Simulator.Api.UnitTests.Services.UserServiceTests.AuthenticateAsync_WhenGivenCreds_ShouldReturnExpectedResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::45A77969-E917-4E37-A851-B80ED07990C7::.NETCoreApp,Version=v3.1::Banking.Simulator.Api.UnitTests.Services.UserServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Controllers.PaymentControllerTest.ProcessPayment_ForValidRequest_ShouldCallServicesAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Controllers.PaymentControllerTest.GetPaymentDetails_ForValidRequest_ShouldCallServicesAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Controllers.PaymentControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::45A77969-E917-4E37-A851-B80ED07990C7::.NETCoreApp,Version=v3.1::Banking.Simulator.Api.UnitTests.Controllers.PaymentsControllersTests.ProcessPayment_ForValidRequest_ShouldCallServicesAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.BankRequestMappingProfileTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.BankRequestMappingProfileTests.Map_WhenGivenPaymentRequest_ShouldMapToBankRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.GetPaymentDetailsResponseMappingProfileTests.Map_WhenGivenPaymentRequest_MapsCorrectlyToGetPaymentDetails&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.GetPaymentDetailsResponseMappingProfileTests.Map_WhenGivenPaymentRequest_MapsCorrectlyToGetPaymentDetailsResponse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.PaymentRequestMappingProfileTests.Map_WhenGivenMessagingPaymentRequest_ShouldReturnDatabasePaymentRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.PaymentResponseMappingProfileTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Mappings.PaymentResponseMappingProfileTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Services.BankServiceClientTests.ProcessPaymentAsync_WhenExecuted_ShouldUseHttpClient&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Services.PaymentServiceTests.GetPaymentDetailsAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Services.PaymentServiceTests.GetPaymentDetailsAsync_ForMissingPaymentRequest_ShouldThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Services.PaymentServiceTests.ProcessPaymentAsync_ForValidPayment_ShouldCallDependenciesAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Services.PaymentServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Services.UserServiceTests.AuthenticateAsync_WhenGivenCreds_ShouldReturnExpectedResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests.Validate_ForVariousCardNumbers_ShouldValidateAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests.Validate_ForVariousMerchantId_ShouldValidateAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests.Validate_ForVariousAmounts_ShouldValidateAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests.Validate_ForVariousCvvs_ShouldValidateAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests.Validate_ForVariousExpiryMonth_ShouldValidateAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests.Validate_ForVariousExpiryYear_ShouldValidateAsExpected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F26489F4-528F-4C85-BB06-8D1ECA22DFE5::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.UnitTests.Validation.PaymentRequestValidatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::45A77969-E917-4E37-A851-B80ED07990C7::.NETCoreApp,Version=v3.1::Banking.Simulator.Api.UnitTests.Validators.PaymentRequestValidatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.GetPaymentDetailsAsync_ForMissingPayment_ThrowsException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e8663fa3_002Dc64a_002D4c73_002D9313_002Db122e515c424/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=efa8be7f_002Dec3c_002D4a17_002Dba93_002D16649634e3cc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_ForMissingPayment_ShouldThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_ForMissingPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2a2d8a8_002Db62a_002D4edd_002Da617_002D47a367478a77/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdatePaymentRequestAsync_ForMissingPayment_ShouldThrow #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests.UpdatePaymentRequestAsync_ForMissingPayment_ShouldThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fc1e22ce_002Dadd6_002D46dc_002D879c_002D60d2df81a968/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaymentRepositoryTests #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0D9DE1D0-9E8C-4604-AD27-8A427D387120::.NETCoreApp,Version=v3.1::Payment.Gateway.Api.IntegrationTests.Repositories.PaymentRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/HangingTestRunnerResponse/@EntryValue">WaitForExit</s:String></wpf:ResourceDictionary>
