@@ -37,14 +37,22 @@
     - Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
 -	Payment.Gateway.Api.TestHarness should launch a console window that allows you to perform an end to end test. Note – it requires the 2 api projects to be running.
     - Initial window should look like:
- 
+ ![image](https://user-images.githubusercontent.com/94113348/141293138-b652dbba-918b-49f7-a02b-5ab7a37d2fa5.png)
+
     - Choosing option 1 allows you to raise a payment request. Press enter at each prompt to use the default value.
- 
+ ![image](https://user-images.githubusercontent.com/94113348/141293156-40520d84-222d-4ebb-bd5d-ece53306798d.png)
+
     - Submit the request to Payment.Gateway.Api (and indirectly to the Banking.Simulator.Api)
     - You should get a response that indicates that the operation was successful.
+![image](https://user-images.githubusercontent.com/94113348/141293173-cbc390e7-1de5-437f-a681-9d417cad4b36.png)
+    
     - Change the card number to an odd number and you should get a response that indicates that the operation was not successful
+![image](https://user-images.githubusercontent.com/94113348/141293207-bda56795-0e28-4e21-9050-1d6622f28541.png)
+    
     - Choose option 2 from the main menu to get the details for a submitted payment.
     - Press enter to use the defaults which should work.
+![image](https://user-images.githubusercontent.com/94113348/141293239-f449d86e-5648-44de-8d16-7c6217dc0282.png)
+    
  
 ## Assumptions
 
