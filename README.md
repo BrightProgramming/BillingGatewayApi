@@ -20,34 +20,28 @@
     - Click “Try it out”
     - Press Execute for the default message.
     - You should get a response code of 200 with success of true indicating that the card processing was successful.
- 
-
-o	Repeat the process for an odd card number and you should get a response code of 200 with success of false indicating that the card processing failed.
-o	Repeat the process for an expiryMonth of 13 and you should get a response code of 400 indicating that it was a bad request and an error message indicating that the expiryMonth is invalid.
-o	Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
--	Payment.Gateway.Api should launch a browser window pointing at https://localhost:5001/swagger/index.html This is a swagger endpoint for the Payment Gateway Api. It uses Basic Authentication with a username of user and a password of password. The default examples should work and return success. Note – the Banking Simulator Api must be running on order for this to work.
-o	Press the Authorise button and use a username of user and a password of password to authenticate.
-o	Expand POST (/api/Payment)
-o	Click “Try it out”
-o	Pres Execute for the default message.
-o	You should get a response code of 200 with a payment status of Completed indicating that the card processing was successful.
- 
-o	Repeat the process for an odd card number and you should get a response code of 200 with a Payment status of Rejected indicating that the card processing failed.
-o	Repeat the process for an expiryMonth of 13 and you should get a response code of 400 indicating that it was a bad request and an error message indicating that the expiryMonth is invalid.
-o	Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
+    - Repeat the process for an odd card number and you should get a response code of 200 with success of false indicating that the card processing failed.
+    - Repeat the process for an expiryMonth of 13 and you should get a response code of 400 indicating that it was a bad request and an error message indicating that the expiryMonth is invalid.
+    - Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
+- Payment.Gateway.Api should launch a browser window pointing at https://localhost:5001/swagger/index.html This is a swagger endpoint for the Payment Gateway Api. It uses Basic Authentication with a username of user and a password of password. The default examples should work and return success. Note – the Banking Simulator Api must be running on order for this to work.
+    - Press the Authorise button and use a username of user and a password of password to authenticate.
+    - Expand POST (/api/Payment)
+    - Click “Try it out”
+    - Press Execute for the default message.
+    - You should get a response code of 200 with a payment status of Completed indicating that the card processing was successful.
+    - Repeat the process for an odd card number and you should get a response code of 200 with a Payment status of Rejected indicating that the card processing failed.
+    - Repeat the process for an expiryMonth of 13 and you should get a response code of 400 indicating that it was a bad request and an error message indicating that the expiryMonth is invalid.
+    - Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
 -	Payment.Gateway.Api.TestHarness should launch a console window that allows you to perform an end to end test. Note – it requires the 2 api projects to be running.
-o	Initial window should look like:
+    - Initial window should look like:
  
-o	Choosing option 1 allows you to raise a payment request. Press enter at each prompt to use the default value.
+    - Choosing option 1 allows you to raise a payment request. Press enter at each prompt to use the default value.
  
-o	Submit the request to Payment.Gateway.Api (and indirectly to the Banking.Simulator.Api)
-o	You should get a response that indicates that the operation was successful.
- 
-o	Change the card number to an odd number and you should get a response that indicates that the operation was not successful
- 
-o	Choose option 2 from the main menu to get the details for a submitted payment.
-o	Press enter to use the defaults which should work.
-o	 
+    - Submit the request to Payment.Gateway.Api (and indirectly to the Banking.Simulator.Api)
+    - You should get a response that indicates that the operation was successful.
+    - Change the card number to an odd number and you should get a response that indicates that the operation was not successful
+    - Choose option 2 from the main menu to get the details for a submitted payment.
+    - Press enter to use the defaults which should work.
  
 ## Assumptions
 
