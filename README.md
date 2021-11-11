@@ -1,42 +1,25 @@
 # Billing Gateway Api
 
-Contents
-Billing Gateway Api	1
-How to run the solution:	2
-Assumptions	5
-Areas for improvement	6
-Possible cloud technologies	6
-Technologies Used	7
-Appendix	8
-Banking.Simulator.Api	8
-Endpoints	8
-Payment Gateway Api	9
-Endpoints	9
-
-
-
- 
-# How to run the solution:
+## How to run the solution:
 
 -	Open the solution in Visual Studio 2019.
 -	It is made up of 6 projects
-o	Banking.Simulator.Api
-o	Payment.Gateway.Api
-o	Payment.Gateway.Api.TestHarness
-o	Banking.Simulator.Api.UnitTests
-o	Payment.Gateway.Api.UnitTests
-o	Payment.Gateway.Api.IntegrationTests
-
+    -	Banking.Simulator.Api
+    -	Payment.Gateway.Api
+    -	Payment.Gateway.Api.TestHarness
+    - Banking.Simulator.Api.UnitTests
+    - Payment.Gateway.Api.UnitTests
+    - Payment.Gateway.Api.IntegrationTests
 -	Press F5 to run the solution – it has 3 start up projects:
-o	Banking.Simulator.Api
-o	Payment.Gateway.Api
-o	Payment.Gateway.Api.TestHarness
+    - Banking.Simulator.Api
+    - Payment.Gateway.Api
+    - Payment.Gateway.Api.TestHarness
 -	Banking.Simulator.Api should launch a browser window pointing at https://localhost:5002/swagger/index.html This is a swagger endpoint for the Banking Simulator Api. It uses Basic Authentication with a username of bank and a password of bank. The default example should work and return success
-o	Press the Authorise button and use a username of bank and a password of bank to authenticate.
-o	Expand POST (/api/Payment)
-o	Click “Try it out”
-o	Pres Execute for the default message.
-o	You should get a response code of 200 with success of true indicating that the card processing was successful.
+    - Press the Authorise button and use a username of bank and a password of bank to authenticate.
+    - Expand POST (/api/Payment)
+    - Click “Try it out”
+    - Press Execute for the default message.
+    - You should get a response code of 200 with success of true indicating that the card processing was successful.
  
 
 o	Repeat the process for an odd card number and you should get a response code of 200 with success of false indicating that the card processing failed.
@@ -66,7 +49,7 @@ o	Choose option 2 from the main menu to get the details for a submitted payment.
 o	Press enter to use the defaults which should work.
 o	 
  
-# Assumptions
+## Assumptions
 
 -	Banking.Simulator.Api should be as simple as possible.
 -	Payments.Gateway.Api should show as much best practice as possible.
@@ -74,7 +57,7 @@ o
 -	Secrets would normally come from some form of secret store, but config is reasonable for the purpose of this exercise.
 
  
-# Areas for improvement
+## Areas for improvement
 
 -	Jwt authentication
 -	Host in some cloud provider. This would give the ability to scale up or down pods depending upon utilization.
@@ -85,7 +68,7 @@ o
 -	Potentially use Polly or equivalent for database/interface calls.
 -	Move to an async queueing implementation. This would give the ability to replay messages in the event of failure. It would also level out peaks in workloads.
 
-# Possible cloud technologies
+## Possible cloud technologies
 
 Any of the current available cloud providers could be used to host Payments.Gateway.Api.
 Payments.Gateway.Api could be hosted in:
@@ -93,7 +76,7 @@ Payments.Gateway.Api could be hosted in:
 -	AWS – EC2
 -	Azure – App Service
  
-# Technologies Used
+## Technologies Used
 
 -	Mongo2Go as an in memory implementation of MongoDb
 -	Basic Authentication
@@ -104,7 +87,7 @@ Payments.Gateway.Api could be hosted in:
 -	Middleware  - for global exception handling
 -	
  
-# Appendix
+## Appendix
 
 Banking.Simulator.Api
 
