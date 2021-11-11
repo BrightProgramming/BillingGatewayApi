@@ -29,6 +29,8 @@
     - Click “Try it out”
     - Press Execute for the default message.
     - You should get a response code of 200 with a payment status of Completed indicating that the card processing was successful.
+![image](https://user-images.githubusercontent.com/94113348/141292704-e9f9dce3-1e98-4f8a-8635-eb40863852a3.png)
+    
     - Repeat the process for an odd card number and you should get a response code of 200 with a Payment status of Rejected indicating that the card processing failed.
     - Repeat the process for an expiryMonth of 13 and you should get a response code of 400 indicating that it was a bad request and an error message indicating that the expiryMonth is invalid.
     - Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
