@@ -37,6 +37,7 @@
     - Logout and attempt to perform an operation. You should receive a Response code of 401 indicating that the user is not authorized.
 -	Payment.Gateway.Api.TestHarness should launch a console window that allows you to perform an end to end test. Note – it requires the 2 api projects to be running.
     - Initial window should look like:
+    
  ![image](https://user-images.githubusercontent.com/94113348/141293138-b652dbba-918b-49f7-a02b-5ab7a37d2fa5.png)
 
     - Choosing option 1 allows you to raise a payment request. Press enter at each prompt to use the default value.
@@ -51,6 +52,7 @@
     
     - Choose option 2 from the main menu to get the details for a submitted payment.
     - Press enter to use the defaults which should work.
+    
 ![image](https://user-images.githubusercontent.com/94113348/141293239-f449d86e-5648-44de-8d16-7c6217dc0282.png)
     
  
