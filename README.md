@@ -85,9 +85,9 @@ Payments.Gateway.Api could be hosted in:
 
 Banking.Simulator.Api
 
--	Username – bank
--	Password – bank
-Endpoints
+- Username – bank
+- Password – bank
+- Endpoints
 
 Endpoint: https://localhost:5002/api/Payment (POST)
 Sample message:
@@ -105,9 +105,9 @@ Sample message:
  
 Payment Gateway Api
 
-o	Username – user
-o	Password – password
-Endpoints
+- Username – user
+- Password – password
+- Endpoints:
 
 Endpoint: https://localhost:5001/api/Payment (POST)
 Sample message :
